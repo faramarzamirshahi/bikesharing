@@ -1,6 +1,6 @@
 # bikesharing
 Des Moines bike sharing proposal on Tableau<br>
-[Des Moines bike sharing proposal on Tableau](DM-BIKESHARE.png)
+![Des Moines bike sharing proposal on Tableau](DM-BIKESHARE.png)
 
 # Overview
 This feasibility analysis of how successful a bike sharing business is in De Moines Iowa. This study is targetted to angel investors interested in investing in this business. To conduct the analysis we use the citibike data for New York city. We use the data related to the month of August 2019 which is busiest period for bike sharing. Some of this data is applicable in our analysis for a similar business that will work in De Moines `"DM BIKESHARE"`.
