@@ -9,9 +9,9 @@ This is a feasibility analysis of how successful a bike sharing business is in D
 # Results
 We use Tableau as the presentation tool. First We use pandas to convert the tripdata from number to date format. This will allow to create charts on the tripdata by hour and minute. See<br>
 [Convert trip duration to date type](NYC_CitiBike_convert.ipynb)
-<br> The charts in the tableau presentation `Des Moins Bike Share` show that more than 80% of the bike users are subscibers. The males are the most frequent users.<br>
+<br> The charts in the tableau presentation [Des Moins Bike Share](https://public.tableau.com/profile/faramarz.amirshahi#!/vizhome/BikeSharingAssignment_16066062937280/DMBIKESHARE?publish=yes) show that more than 80% of the bike users are subscibers. The males are the most frequent users.<br>
 The busiest days of the week are Monday, Tuesday, Thursday and Friday<br>
-[Des Moins Bike Share](https://public.tableau.com/profile/faramarz.amirshahi#!/vizhome/BikeSharingAssignment_16066062937280/DMBIKESHARE?publish=yes)
+
 
 
 # Summary
